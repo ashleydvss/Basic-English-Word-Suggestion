@@ -26,6 +26,7 @@ public class HashTable implements iHashTable{
     public HashTable(){
         table = new Chain[DICTIONARY_CAPACITY];
     }
+    //everytime wanna store smth, dont forget to initialize/declare the Linkedlist of each cell in table
 
     @Override
     public boolean search(String word) {
