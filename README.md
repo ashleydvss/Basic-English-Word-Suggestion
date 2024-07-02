@@ -1,4 +1,4 @@
-# Basic-English-Word-Suggestion
+# (BLAB) Basic-Language-AutoCorrect-Buddy
 
 In regards to finishing my COMP 2140 (Data Structures and Algorithms) course in University of Manitoba,
   I made a simple project using hash table data structure in Java.
@@ -11,4 +11,4 @@ How it works:
 
 
 Repository created : 24th June 2024
-Last updated : 24th June 2024
+Last updated : 1st July 2024
